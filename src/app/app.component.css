@@ -1,0 +1,16 @@
+.first{
+    font-size: 50px;
+}
+
+.second{
+    color: blue;
+}
+
+.third{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.fourth{
+  background-color: cadetblue;
+}
